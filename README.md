@@ -12,13 +12,12 @@ PYTHON3
 
 ## Collected data includes:
 1. Seller information
-2. Seller type
-3. Number of BHK
-4. Price
-5. Area in sqft
-6. Location
-7. Status
-8. Price per sqft
+2. Number of BHK
+3. Price
+4. Area in sqft
+5. Location
+6. Status
+7. Price per sqft
 
 ## Data Source
 web page = https://www.makaan.com/hyderabad-residential-property/buy-property-in-hyderabad-city
